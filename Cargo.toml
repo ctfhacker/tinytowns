@@ -1,0 +1,7 @@
+[package]
+name = "tinytowns-ai"
+version = "0.1.0"
+authors = ["randomlshb@gmail.com <randomlshb@gmail.com>"]
+edition = "2018"
+
+[dependencies]
